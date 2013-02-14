@@ -5,7 +5,8 @@ This repo contains flowcharted ZFS code from the current illumos-gate. Informati
 flowcharts only valid for the version of code that was current at the time of generation.
 
 I do not plan to maintain those for each Illumos release or gate commit; if changes are significant,
-I'll likely have to think of a versioning scheme.
+I'll likely have to think of a versioning scheme. For future ones, I will likely stick to the _multipage
+format, as it offers the most benefit.
 
 NOTE: They are quite large and may break your Adobe Reader on a slow machine.
 
